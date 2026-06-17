@@ -18,6 +18,12 @@
     <Compile Update="menu_principal.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="meses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nomina.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Registar.vb">
       <SubType>Form</SubType>
     </Compile>

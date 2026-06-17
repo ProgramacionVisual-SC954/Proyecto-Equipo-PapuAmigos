@@ -19,4 +19,15 @@
 
         f.Show()
     End Sub
+
+    Private Sub btnPagos_Click(sender As Object, e As EventArgs) Handles btnPagos.Click
+        Dim f As New meses
+
+        f.Show()
+    End Sub
+
+    Private Sub btnNomina_Click(sender As Object, e As EventArgs) Handles btnNomina.Click
+        Dim f As New nomina
+        f.Show()
+    End Sub
 End Class

@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("fixhome"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ba76e61400e9fa4625083d69373de8c04a25e7e"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baedc9c81cca04f91ff0cc52841ecd0e5540c22e"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("fixhome"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("fixhome"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
