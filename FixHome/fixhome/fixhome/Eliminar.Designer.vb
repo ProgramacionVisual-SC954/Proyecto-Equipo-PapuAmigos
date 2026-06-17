@@ -26,6 +26,7 @@ Partial Class Eliminar
         btnBuscar = New Button()
         lblResultado = New Label()
         btnEliminar = New Button()
+        btnRegresar_Click = New Button()
         SuspendLayout()
         ' 
         ' txtBuscarId
@@ -63,11 +64,21 @@ Partial Class Eliminar
         btnEliminar.Text = "Eliminar Usuario"
         btnEliminar.UseVisualStyleBackColor = True
         ' 
+        ' btnRegresar_Click
+        ' 
+        btnRegresar_Click.Location = New Point(673, 388)
+        btnRegresar_Click.Name = "btnRegresar_Click"
+        btnRegresar_Click.Size = New Size(75, 23)
+        btnRegresar_Click.TabIndex = 4
+        btnRegresar_Click.Text = "regresar"
+        btnRegresar_Click.UseVisualStyleBackColor = True
+        ' 
         ' Eliminar
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
+        Controls.Add(btnRegresar_Click)
         Controls.Add(btnEliminar)
         Controls.Add(lblResultado)
         Controls.Add(btnBuscar)
@@ -82,4 +93,5 @@ Partial Class Eliminar
     Friend WithEvents btnBuscar As Button
     Friend WithEvents lblResultado As Label
     Friend WithEvents btnEliminar As Button
+    Friend WithEvents btnRegresar_Click As Button
 End Class
