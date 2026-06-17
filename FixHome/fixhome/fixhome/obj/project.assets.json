@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Noveno\\Documents\\FixHome\\Proyecto-Equipo-PapuAmigos\\FixHome\\fixhome\\fixhome\\fixhome.vbproj",
+      "projectUniqueName": "C:\\Users\\Noveno\\Documents\\fixhome_1.0\\FixHome\\fixhome\\fixhome\\fixhome.vbproj",
       "projectName": "fixhome",
-      "projectPath": "C:\\Users\\Noveno\\Documents\\FixHome\\Proyecto-Equipo-PapuAmigos\\FixHome\\fixhome\\fixhome\\fixhome.vbproj",
+      "projectPath": "C:\\Users\\Noveno\\Documents\\fixhome_1.0\\FixHome\\fixhome\\fixhome\\fixhome.vbproj",
       "packagesPath": "C:\\Users\\Noveno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Noveno\\Documents\\FixHome\\Proyecto-Equipo-PapuAmigos\\FixHome\\fixhome\\fixhome\\obj\\",
+      "outputPath": "C:\\Users\\Noveno\\Documents\\fixhome_1.0\\FixHome\\fixhome\\fixhome\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
